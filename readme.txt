@@ -7,3 +7,4 @@ git is 廖雪峰
 git ia request
 git is response
 
+Creating a new branch is quick.
