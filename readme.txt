@@ -8,5 +8,5 @@ git ia request
 git is response
 
 
-陈氏春秋，千秋万载，一统华夏！！！
+陈氏春秋,万世无双！！！
 
